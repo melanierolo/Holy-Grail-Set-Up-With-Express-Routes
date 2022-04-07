@@ -1,0 +1,22 @@
+{
+  "name": "holy-grail-with-express-routes",
+  "version": "1.0.0",
+  "description": "node app for holy grail",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melanierolo/Holy-Grail-Set-Up-With-Express-Routes.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/melanierolo/Holy-Grail-Set-Up-With-Express-Routes/issues"
+  },
+  "homepage": "https://github.com/melanierolo/Holy-Grail-Set-Up-With-Express-Routes#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
